@@ -7,3 +7,10 @@ Today we learn a really simple AI. Neural network.
 4. Edit as liked. Try editing the data, the dimensions of neural network and learning rate.
 Enjoy.
 
+
+#Database link for a project
+1. https://archive.ics.uci.edu/dataset/863/maternal%2Bhealth%2Brisk
+2. https://data.mendeley.com/datasets/p5w98dvbbk/1
+3. https://www.cdc.gov/prams/index.html
+4. https://www.cdc.gov/nchs/data_access/vitalstatsonline.htm
+
